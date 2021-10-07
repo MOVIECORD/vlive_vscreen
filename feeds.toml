@@ -8,6 +8,7 @@ contentSelector = "//div[1]/div/a/div[2]/div[1]/em"
 dateSelector = "//div[1]/div/a/div[2]/div[2]/div/span"
 dateFormat = "M.d."
 waitUntil = "networkidle"
+onFail = "stale"
 
 [vscreen]
 title = "V SCREEN ─ Media Board"
@@ -19,3 +20,4 @@ contentSelector = "//div[1]/div/a/div[2]/div[1]/em"
 dateSelector = "//div[1]/div/a/div[2]/div[2]/div/span"
 dateFormat = "M.d."
 waitUntil = "networkidle"
+onFail = "stale"
