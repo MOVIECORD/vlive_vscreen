@@ -1,4 +1,4 @@
-[vscreen_notice]
+[notice]
 title = "V SCREEN ─ Notice"
 url = "https://www.vlive.tv/channel/C956BB/board/1732"
 entrySelector = "//html/body/div/div/div/div[2]/div[3]/div[2]/ul/li"
@@ -10,7 +10,7 @@ dateFormat = "M.d."
 waitUntil = "networkidle"
 onFail = "stale"
 
-[vscreen]
+[media]
 title = "V SCREEN ─ Media Board"
 url = "https://www.vlive.tv/channel/C956BB/board/5167"
 entrySelector = "//html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[contains(@class,'post_item')]"
