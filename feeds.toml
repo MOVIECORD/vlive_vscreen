@@ -13,7 +13,7 @@ onFail = "stale"
 [vscreen]
 title = "V SCREEN ─ Media Board"
 url = "https://www.vlive.tv/channel/C956BB/board/5167"
-entrySelector = "//html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[@class='post_item--3Brrv -video--1s9IA']"
+entrySelector = "//html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[contains(@class,'post_item')]"
 titleSelector = "//a/div/div[1]/div/strong"
 linkSelector = "//a"
 contentSelector = "//div[1]/div/a/div[2]/div[1]/em"
