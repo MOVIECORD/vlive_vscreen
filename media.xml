@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/C956BB/board/5167</id>
+    <id>https://www.vlive.tv/channel/C956BB/board/5167?lang=ko</id>
     <title>V SCREEN ─ Media Board</title>
-    <updated>2021-10-07T07:26:03.775Z</updated>
+    <updated>2021-10-07T07:37:40.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[(FULL) 'The Miracle' Cup Quiz! Movie Talk Live]]></title>
-        <id>https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1</id>
-        <link href="https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1"/>
-        <updated>2021-10-07T07:26:03.157Z</updated>
+        <title type="html"><![CDATA['2021 부일영화상' 핸드프리팅 & 레드카펫]]></title>
+        <id>https://www.vlive.tv/post/0-25786399</id>
+        <link href="https://www.vlive.tv/post/0-25786399"/>
+        <updated>2021-10-07T07:37:39.351Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(FULL) 'On the Line' Movietalk Live]]></title>
-        <id>https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1</id>
-        <link href="https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1"/>
-        <updated>2021-10-07T07:26:03.158Z</updated>
+        <title type="html"><![CDATA[(FULL) '기적'배 장학퀴즈! 무비토크 라이브]]></title>
+        <id>https://www.vlive.tv/post/1-25001517</id>
+        <link href="https://www.vlive.tv/post/1-25001517"/>
+        <updated>2021-09-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(FULL) '보이스' 무비토크 라이브]]></title>
+        <id>https://www.vlive.tv/post/0-24961828</id>
+        <link href="https://www.vlive.tv/post/0-24961828"/>
+        <updated>2021-09-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(예고) '기적'배 장학퀴즈! 무비토크 라이브]]></title>
-        <id>https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1</id>
-        <link href="https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1"/>
-        <updated>2021-10-07T07:26:03.159Z</updated>
+        <id>https://www.vlive.tv/post/1-25001483</id>
+        <link href="https://www.vlive.tv/post/1-25001483"/>
+        <updated>2021-08-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(Preview) 'On the Line' Movietalk Live]]></title>
-        <id>https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1</id>
-        <link href="https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1"/>
-        <updated>2021-10-07T07:26:03.160Z</updated>
+        <title type="html"><![CDATA[(예고) '보이스' 무비토크 라이브]]></title>
+        <id>https://www.vlive.tv/post/0-24962556</id>
+        <link href="https://www.vlive.tv/post/0-24962556"/>
+        <updated>2021-08-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(FULL) 'SINKHOLE' THANK YOU ALL Movietalk Live]]></title>
-        <id>https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1</id>
-        <link href="https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1"/>
-        <updated>2021-10-07T07:26:03.165Z</updated>
+        <title type="html"><![CDATA[(FULL) '싱크홀' THANK YOU ALL 무비토크 라이브]]></title>
+        <id>https://www.vlive.tv/post/1-24725420</id>
+        <link href="https://www.vlive.tv/post/1-24725420"/>
+        <updated>2021-08-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(Preview) 'SINKHOLE' THANK YOU ALL Movietalk Live]]></title>
-        <id>https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1</id>
-        <link href="https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1"/>
-        <updated>2021-10-07T07:26:03.166Z</updated>
+        <title type="html"><![CDATA[(예고) '싱크홀' THANK YOU ALL 무비토크 라이브]]></title>
+        <id>https://www.vlive.tv/post/1-24743481</id>
+        <link href="https://www.vlive.tv/post/1-24743481"/>
+        <updated>2021-08-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(FULL) 'Hostage: Missing Celebrity' Movietalk Live]]></title>
-        <id>https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1</id>
-        <link href="https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1"/>
-        <updated>2021-10-07T07:26:03.166Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(FULL) 'Escape from Mogadishu' Movietalk Live]]></title>
-        <id>https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1</id>
-        <link href="https://www.vlive.tv/channel/C956BB/member/9fe98534268a4bc93840622d37b129c1"/>
-        <updated>2021-10-07T07:26:03.167Z</updated>
+        <title type="html"><![CDATA[(FULL) '인질' 무비토크 라이브]]></title>
+        <id>https://www.vlive.tv/post/0-24384621</id>
+        <link href="https://www.vlive.tv/post/0-24384621"/>
+        <updated>2021-08-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
 </feed>
