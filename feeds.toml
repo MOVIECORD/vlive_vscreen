@@ -1,6 +1,6 @@
 [notice]
 title = "V SCREEN ─ Notice"
-url = "https://www.vlive.tv/channel/C956BB/board/1732?lang=ko"
+url = "https://www.vlive.tv/channel/C956BB/board/1732"
 entrySelector = "//html/body/div/div/div/div[2]/div[3]/div[2]/ul/li"
 titleSelector = "//a/div/div[1]/div[1]/strong"
 linkSelector = "//a[@class='post_area--1y4Lh']"
@@ -12,7 +12,7 @@ onFail = "stale"
 
 [media]
 title = "V SCREEN ─ Media Board"
-url = "https://www.vlive.tv/channel/C956BB/board/5167?lang=ko"
+url = "https://www.vlive.tv/channel/C956BB/board/5167"
 entrySelector = "//html/body/div/div/div/div[2]/div[3]/div[2]/ul/li[contains(@class,'post_item')]"
 titleSelector = "//a/div/div[1]/div/strong"
 linkSelector = "//a[@class='post_area--3dKbo']"
