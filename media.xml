@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C956BB/board/5167</id>
     <title>V SCREEN ─ Media Board</title>
-    <updated>2021-10-21T06:27:19.872Z</updated>
+    <updated>2021-10-21T07:21:50.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(Preview) 'Tomb of the River' Movietalk Live]]></title>
+        <id>https://www.vlive.tv/post/0-26088725</id>
+        <link href="https://www.vlive.tv/post/0-26088725"/>
+        <updated>2021-10-21T07:21:49.713Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(FULL) '2021 부일영화상' 부일영화상 시상식]]></title>
         <id>https://www.vlive.tv/post/1-25793825</id>
