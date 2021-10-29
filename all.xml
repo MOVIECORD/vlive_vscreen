@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/vlive_vscreen/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-29T05:20:37.164Z</updated>
+    <updated>2021-10-29T06:27:26.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<단편애니메이션 기획전 : ANI WHERE> 섹션5 작품 소개 (V SCREEN ─ Notice)]]></title>
@@ -145,6 +145,13 @@
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(Preview) 'Nothing Serious' Movie Talk Live (V SCREEN ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/1-26223751</id>
+        <link href="https://www.vlive.tv/post/1-26223751"/>
+        <updated>2021-10-29T06:27:26.231Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(FULL) 'Tomb of the River' Movietalk Live (V SCREEN ─ Media Board)]]></title>
         <id>https://www.vlive.tv/post/0-26088783</id>
         <link href="https://www.vlive.tv/post/0-26088783"/>
@@ -212,13 +219,6 @@
         <id>https://www.vlive.tv/post/0-24962556</id>
         <link href="https://www.vlive.tv/post/0-24962556"/>
         <updated>2021-10-07T10:25:20.470Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(FULL) 'SINKHOLE' THANK YOU ALL Movietalk Live (V SCREEN ─ Media Board)]]></title>
-        <id>https://www.vlive.tv/post/1-24725420</id>
-        <link href="https://www.vlive.tv/post/1-24725420"/>
-        <updated>2021-10-07T10:25:20.471Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
 </feed>

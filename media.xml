@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C956BB/board/5167</id>
     <title>V SCREEN ─ Media Board</title>
-    <updated>2021-10-29T05:20:37.163Z</updated>
+    <updated>2021-10-29T06:27:26.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(Preview) 'Nothing Serious' Movie Talk Live]]></title>
+        <id>https://www.vlive.tv/post/1-26223751</id>
+        <link href="https://www.vlive.tv/post/1-26223751"/>
+        <updated>2021-10-29T06:27:26.231Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(FULL) 'Tomb of the River' Movietalk Live]]></title>
         <id>https://www.vlive.tv/post/0-26088783</id>
@@ -73,13 +80,6 @@
         <id>https://www.vlive.tv/post/0-24962556</id>
         <link href="https://www.vlive.tv/post/0-24962556"/>
         <updated>2021-08-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(FULL) 'SINKHOLE' THANK YOU ALL Movietalk Live]]></title>
-        <id>https://www.vlive.tv/post/1-24725420</id>
-        <link href="https://www.vlive.tv/post/1-24725420"/>
-        <updated>2021-08-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
 </feed>
