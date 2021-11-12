@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C956BB/board/5167</id>
     <title>V SCREEN ─ Media Board</title>
-    <updated>2021-11-12T08:27:43.241Z</updated>
+    <updated>2021-11-12T09:23:10.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(예고) '유체이탈자' 무비토크 라이브]]></title>
+        <id>https://www.vlive.tv/post/0-26417401</id>
+        <link href="https://www.vlive.tv/post/0-26417401"/>
+        <updated>2021-11-12T09:23:09.972Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(예고) '장르만 로맨스' 무비토크 라이브]]></title>
         <id>https://www.vlive.tv/post/1-26382461</id>
