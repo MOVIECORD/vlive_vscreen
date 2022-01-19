@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C956BB/board/5167</id>
     <title>V SCREEN ─ Media Board</title>
-    <updated>2022-01-19T02:20:50.874Z</updated>
+    <updated>2022-01-19T03:07:50.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(FULL) '해적: 도깨비 깃발' 무비토크 라이브]]></title>
+        <id>https://www.vlive.tv/post/0-27418884</id>
+        <link href="https://www.vlive.tv/post/0-27418884"/>
+        <updated>2022-01-19T03:07:49.724Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(예고) '해적: 도깨비 깃발' 무비토크 라이브]]></title>
         <id>https://www.vlive.tv/post/0-27410995</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-25794477</id>
         <link href="https://www.vlive.tv/post/1-25794477"/>
         <updated>2021-11-07T22:22:20.003Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(FULL) 'The Miracle' Cup Quiz! Movie Talk Live]]></title>
-        <id>https://www.vlive.tv/post/1-25001517</id>
-        <link href="https://www.vlive.tv/post/1-25001517"/>
-        <updated>2022-01-18T13:19:11.025Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
 </feed>
