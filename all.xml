@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/vlive_vscreen/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-17T11:06:35.296Z</updated>
+    <updated>2022-02-17T12:12:08.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V SCREEN ─ Notice)]]></title>
@@ -145,13 +145,6 @@
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 시리즈5편' (V SCREEN ─ Media Board)]]></title>
-        <id>https://www.vlive.tv/post/0-27940576</id>
-        <link href="https://www.vlive.tv/post/0-27940576"/>
-        <updated>2022-02-17T11:06:34.618Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(FULL) '해적: 도깨비 깃발' 무비토크 라이브 (V SCREEN ─ Media Board)]]></title>
         <id>https://www.vlive.tv/post/0-27418884</id>
         <link href="https://www.vlive.tv/post/0-27418884"/>
@@ -282,6 +275,13 @@
         <id>https://www.vlive.tv/post/0-25786384</id>
         <link href="https://www.vlive.tv/post/0-25786384"/>
         <updated>2022-02-06T06:09:02.805Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(FULL) 'The Last Duel' Movie Talk Live (V SCREEN ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/1-25794477</id>
+        <link href="https://www.vlive.tv/post/1-25794477"/>
+        <updated>2022-02-17T12:12:07.663Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
 </feed>
