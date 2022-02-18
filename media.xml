@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C956BB/board/5167</id>
     <title>V SCREEN ─ Media Board</title>
-    <updated>2022-02-18T09:08:50.154Z</updated>
+    <updated>2022-02-18T10:10:57.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 영화5편']]></title>
+        <id>https://www.vlive.tv/post/1-27947302</id>
+        <link href="https://www.vlive.tv/post/1-27947302"/>
+        <updated>2022-02-18T10:10:57.106Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(FULL) '디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 시리즈5편']]></title>
         <id>https://www.vlive.tv/post/0-27940576</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/0-25786399</id>
         <link href="https://www.vlive.tv/post/0-25786399"/>
         <updated>2022-02-17T16:10:49.166Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(FULL) '2021 부일영화상' 올해의 스타와의 토크]]></title>
-        <id>https://www.vlive.tv/post/0-25786384</id>
-        <link href="https://www.vlive.tv/post/0-25786384"/>
-        <updated>2022-02-17T16:10:49.167Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
 </feed>
