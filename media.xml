@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C956BB/board/5167</id>
     <title>V SCREEN ─ Media Board</title>
-    <updated>2022-02-24T09:09:20.061Z</updated>
+    <updated>2022-02-24T10:09:05.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제20회 디렉터스컷 어워즈]]></title>
+        <id>https://www.vlive.tv/post/1-27947054</id>
+        <link href="https://www.vlive.tv/post/1-27947054"/>
+        <updated>2022-02-24T10:09:05.225Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(FULL) '디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 영화5편']]></title>
         <id>https://www.vlive.tv/post/1-27947302</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[(FULL) '2021 부일영화상' 부일영화상 시상식]]></title>
         <id>https://www.vlive.tv/post/1-25793825</id>
         <link href="https://www.vlive.tv/post/1-25793825"/>
-        <updated>2022-02-17T16:10:49.166Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(FULL) '2021 부일영화상' 핸드프리팅 & 레드카펫]]></title>
-        <id>https://www.vlive.tv/post/0-25786399</id>
-        <link href="https://www.vlive.tv/post/0-25786399"/>
         <updated>2022-02-17T16:10:49.166Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
