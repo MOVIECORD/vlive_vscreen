@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/vlive_vscreen/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-02T00:34:37.963Z</updated>
+    <updated>2022-03-02T02:06:15.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<네이버 인디극장 : 우리 구면 아닌가요?> 작품 소개 (V SCREEN ─ Notice)]]></title>
@@ -194,41 +194,6 @@
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '뎀프시롤:참회록' 정혁기X조현철 (V SCREEN ─ Media Board)]]></title>
-        <id>https://www.vlive.tv/post/1-26623456</id>
-        <link href="https://www.vlive.tv/post/1-26623456"/>
-        <updated>2022-02-17T16:10:49.152Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '그 새끼를 죽였어야 했는데' 이가홍 (V SCREEN ─ Media Board)]]></title>
-        <id>https://www.vlive.tv/post/0-26617995</id>
-        <link href="https://www.vlive.tv/post/0-26617995"/>
-        <updated>2022-02-17T16:10:49.153Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '떨어져 있어야 가족이다' 김현 (V SCREEN ─ Media Board)]]></title>
-        <id>https://www.vlive.tv/post/0-26617808</id>
-        <link href="https://www.vlive.tv/post/0-26617808"/>
-        <updated>2022-02-17T16:10:49.153Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '능력소녀' 김수영 (V SCREEN ─ Media Board)]]></title>
-        <id>https://www.vlive.tv/post/0-26617571</id>
-        <link href="https://www.vlive.tv/post/0-26617571"/>
-        <updated>2022-02-17T16:10:49.154Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 인디극장 : 우리 구면 아닌가요?] '9월이 지나면' 고형동 (V SCREEN ─ Media Board)]]></title>
-        <id>https://www.vlive.tv/post/0-26617318</id>
-        <link href="https://www.vlive.tv/post/0-26617318"/>
-        <updated>2022-02-17T16:10:49.155Z</updated>
-        <content type="html"><![CDATA[V SCREEN]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(FULL) '장르만 로맨스' 무비토크 라이브 (V SCREEN ─ Media Board)]]></title>
         <id>https://www.vlive.tv/post/1-26382701</id>
         <link href="https://www.vlive.tv/post/1-26382701"/>
@@ -282,6 +247,41 @@
         <id>https://www.vlive.tv/post/1-25793825</id>
         <link href="https://www.vlive.tv/post/1-25793825"/>
         <updated>2022-02-17T16:10:49.166Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(FULL) '2021 부일영화상' 핸드프리팅 & 레드카펫 (V SCREEN ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/0-25786399</id>
+        <link href="https://www.vlive.tv/post/0-25786399"/>
+        <updated>2022-03-02T02:06:15.079Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(FULL) '2021 부일영화상' 올해의 스타와의 토크 (V SCREEN ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/0-25786384</id>
+        <link href="https://www.vlive.tv/post/0-25786384"/>
+        <updated>2022-03-02T02:06:15.080Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(FULL) 'The Last Duel' Movie Talk Live (V SCREEN ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/1-25794477</id>
+        <link href="https://www.vlive.tv/post/1-25794477"/>
+        <updated>2022-03-02T02:06:15.081Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(FULL) 'The Miracle' Cup Quiz! Movie Talk Live (V SCREEN ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/1-25001517</id>
+        <link href="https://www.vlive.tv/post/1-25001517"/>
+        <updated>2022-03-02T02:06:15.082Z</updated>
+        <content type="html"><![CDATA[V SCREEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(FULL) 'On the Line' Movietalk Live (V SCREEN ─ Media Board)]]></title>
+        <id>https://www.vlive.tv/post/0-24961828</id>
+        <link href="https://www.vlive.tv/post/0-24961828"/>
+        <updated>2022-03-02T02:06:15.083Z</updated>
         <content type="html"><![CDATA[V SCREEN]]></content>
     </entry>
 </feed>
